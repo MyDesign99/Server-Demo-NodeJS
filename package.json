@@ -1,0 +1,19 @@
+{
+	"name": "server-demo-nodejs",
+	"version": "1.1.1",
+	"description": "Demo NodeJS server project for obtaining authenticated images from MyDesign99",
+	"keywords": ["MyDesign99.com", "MyDesign99", "MD99", "Authenticate", "Images", "Auth", "Token", "NodeJS"],
+	"author": {
+		"name": "MyDesign99"
+	},
+	"contributors": [
+		"Tim Lambert"
+	],
+	"homepage": "https://mydesign99.com",
+	"dependencies": {
+		"axios": "^1.7.2",
+		"authtoken-sdk-nodejs" : "mydesign99/authtoken-sdk-nodejs"
+	},
+	"main": "app.js",
+	"license": "MIT"
+}
