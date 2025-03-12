@@ -48,11 +48,11 @@ assetName		- should be 'radial-demo'
 
 # USAGE EXAMPLES
 
-There are 3 sample routes (URL's) using HTTP GET requests. These examples can be accessed through a browser by copying the following examples into the browser's address bar. The values in the following examples can be changed to see how the asset design changes based on different values.
+There are 3 sample routes (URL's) using HTTP GET requests. These examples can be accessed through a browser by copying the following URL's into the browser's address bar. The values in the following examples can be changed to see how the asset design changes based on different values.
 
 The result in the browser is a fully-formed and authenticated image URL. This URL can then be used to retrieve the image (your data graphic)
 
-The asset used in these examples is a Radial Wedge, and it's design changes color based on value. The ranges are:
+The asset used in these examples is a Radial Wedge, and its design changes color based on value. The ranges are:
 ```
       < 70
 70 thru 79
